@@ -1,5 +1,5 @@
 # Programming Assignment 1 Quiz
-setwd("C:/Users/ychang/Desktop/Other/Johns-Hopkins-Data-Science/Coursera-Data-Science/02-R Programming/Programming Assignment 1")
+setwd("C:/Users/ychang/Desktop/Other/GitHub/Coursera/Johns Hopkins Data Science/02 R Programming/Programming Assignment 1")
 
 source("pollutantmean.R")
 source("complete.R")

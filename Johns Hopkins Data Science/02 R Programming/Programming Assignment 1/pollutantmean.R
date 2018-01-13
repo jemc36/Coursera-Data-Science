@@ -1,5 +1,5 @@
 # Programming Assignment 1 Air Pollution
-setwd("C:/Users/ychang/Desktop/Other/Johns-Hopkins-Data-Science/Coursera-Data-Science/02-R Programming/Programming Assignment 1")
+setwd("C:/Users/ychang/Desktop/Other/GitHub/Coursera/Johns Hopkins Data Science/02 R Programming/Programming Assignment 1")
 
 # Part 1
 pollutantmean <- function(directory, pollutant, id = 1:332){
