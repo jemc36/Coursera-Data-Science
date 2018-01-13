@@ -67,6 +67,6 @@ rankall <- function(outcome, num="best"){
 
 
 # Demo
-head(rankall("heart attack", 20), 10)
-tail(rankall("pneumonia", "worst"), 3)
-tail(rankall("heart failure"), 10)
+# head(rankall("heart attack", 20), 10)
+# tail(rankall("pneumonia", "worst"), 3)
+# tail(rankall("heart failure"), 10)
