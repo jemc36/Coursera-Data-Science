@@ -3,6 +3,7 @@
 1. The Data Scientist's ToolBox 
 2. [R Programming](https://github.com/jemc36/Coursera/tree/master/Johns%20Hopkins%20Data%20Science)
 3. [Getting and Cleaning Data](https://github.com/jemc36/Coursera/tree/master/Johns%20Hopkins%20Data%20Science/03%20Getting%20and%20Cleaning%20Data)
+4. [Exploratory Data Analysis]()
 
 ### 02) Stanford Machine Learning by Andrew Ng
 
