@@ -1,11 +1,32 @@
-# Coursera
-### 01) Johns Hopkins Data Science Specialization by Roger Peng, Jeff Leek, and Brain Caffo
-1. The Data Scientist's ToolBox 
+# Self Learning with Coursera
+### 01) Johns Hopkins University: Data Science Specialization by Roger Peng, Jeff Leek, and Brain Caffo
+_Finished_
+1. The Data Scientist's ToolBox
 2. [R Programming](https://github.com/jemc36/Coursera/tree/master/Johns%20Hopkins%20Data%20Science)
 3. [Getting and Cleaning Data](https://github.com/jemc36/Coursera/tree/master/Johns%20Hopkins%20Data%20Science/03%20Getting%20and%20Cleaning%20Data)
+
+_In Progress_
 4. [Exploratory Data Analysis](https://github.com/jemc36/Coursera/tree/master/Johns%20Hopkins%20Data%20Science/04%20Exploratory%20Data%20Analysis)
 
-### 02) Stanford Machine Learning by Andrew Ng
+_Waiting Me_
+5. Reproducible Research
+6. Statistical Inference
+7. Regression Models
+8. Practical Machine Learning
+9. Developing Data Products
+10. Data Science Capstone
 
 
-I have been taken Coursera course and try to keep tracking the assignment I've been completed. If you have any questions or you find something different from yours please let me know. Or if you are interested in taking classes together please connect me through my gmail. Thank you:)
+### 02) University of Michigan: Python for Everybody Specialization by Charles Severance
+_Finished_
+1. Programming for Everybody(Getting Started with Python)
+2. Python Data Structure
+3. Using Python to Access Web Data
+
+_In Progress_
+4. Using Databases with Python
+5. Capstone: Retrieving, Processing, and Visualizing Data with Python
+
+### 03) Stanford: Machine Learning by Andrew Ng
+
+> Looking for learning mates, my email in bio :smile: Ciao
