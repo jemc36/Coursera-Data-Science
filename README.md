@@ -36,4 +36,4 @@ _In Progress_
 
 
 
-> Looking for learning mates, my email in bio :smile: Ciao
+> Looking for learning mates, my email in bio :smile:
