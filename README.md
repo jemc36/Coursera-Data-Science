@@ -26,7 +26,7 @@ _Finished_
 3. [Using Python to Access Web Data](https://github.com/jemc36/Coursera/tree/master/Python%20for%20Everybody%20Specialization/Using%20Python%20to%20Access%20Web%20Data)
 
 _In Progress_  
-4. Using Databases with Python  
+4. [Using Databases with Python](https://github.com/jemc36/Coursera/tree/master/Python%20for%20Everybody%20Specialization/Using%20Databases%20with%20Python)    
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python  
 
 
