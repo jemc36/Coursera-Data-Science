@@ -25,15 +25,19 @@ _Finished_
 2. [Python Data Structure](https://github.com/jemc36/Coursera/tree/master/Python%20for%20Everybody%20Specialization/Python%20Data%20Structures)
 3. [Using Python to Access Web Data](https://github.com/jemc36/Coursera/tree/master/Python%20for%20Everybody%20Specialization/Using%20Python%20to%20Access%20Web%20Data)
 4. [Using Databases with Python](https://github.com/jemc36/Coursera/tree/master/Python%20for%20Everybody%20Specialization/Using%20Databases%20with%20Python)   
+5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/jemc36/Coursera/tree/master/Python%20for%20Everybody%20Specialization/Capstone%20Retrieving%20Processing%20and%20Visualizing%20Data%20with%20Python)  
 
-_In Progress_   
-5. Capstone: Retrieving, Processing, and Visualizing Data with Python  
+> Optional Project
 
+### 03) Mastering Software Development in R Specialization by Roger Pend, Brooke Anderson  
 
-### 03) Stanford: Machine Learning by Andrew Ng
+_In Progress_  
+1. The R Programming Environment
 
-
-
-
+_Waiting Me_  
+2. Advanced R programming
+3. Building R Packages
+4. Building Data Visualization Tools
+5. Mastering Software Development in R Capstone
 
 > Looking for learning mates, my email in bio :smile:
