@@ -31,13 +31,13 @@ _Finished_
 
 ### 03) Mastering Software Development in R Specialization by Roger Pend, Brooke Anderson  
 
-_In Progress_  
+_Finished_  
 1. The R Programming Environment
 
 _Waiting Me_  
-2. Advanced R programming
-3. Building R Packages
-4. Building Data Visualization Tools
-5. Mastering Software Development in R Capstone
+2. Advanced R programming  
+3. Building R Packages  
+4. Building Data Visualization Tools  
+5. Mastering Software Development in R Capstone  
 
 > Looking for learning mates, my email in bio :smile:
